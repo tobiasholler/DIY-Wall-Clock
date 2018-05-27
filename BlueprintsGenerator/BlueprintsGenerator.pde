@@ -1,7 +1,7 @@
 import processing.pdf.*;
 
 void setup() {
-  beginRecord(PDF, "DIYWallClockBlueprints.pdf");
+  beginRecord(PDF, "Blueprints.pdf");
   
   size(450, 450);
   background(255);
